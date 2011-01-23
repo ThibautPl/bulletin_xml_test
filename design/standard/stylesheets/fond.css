@@ -1,0 +1,102 @@
+
+titre
+{
+  color : black;
+  font-size : 18px;
+  text-align: center; /* Pour centrer le titre */
+  font-family: "Arial Black", Arial, Verdana, serif; /* Un titre en Arial Black c'est mieux :o;) */
+	
+}
+
+
+sous_titre,
+{
+  color : black;
+  font-size : 14px;
+  text-align: center; /* Pour centrer le titre */
+}
+
+
+
+h3
+{
+  color : red;
+  font-family: "Arial Black", Arial, Verdana, serif; /* Un titre en Arial Black c'est mieux :o;) */
+}
+
+preconisation
+{
+//  color : green;
+  font-size : 12px;
+}
+
+
+
+tableau_synoptique
+{
+ // color : green;
+  font-size : 12px;
+
+}
+
+meteorologie
+{
+ // color : green;
+  font-size : 12px;
+  text-indent: 30px; /* Les paragraphes commenceront 30 pixels sur la droite */
+  text-align: justify; /* Ils seront justifiés */
+	
+
+}
+
+parcelles_temoins
+{
+ // color : green;
+  font-size : 12px;
+  text-indent: 30px; /* Les paragraphes commenceront 30 pixels sur la droite */
+   text-align: justify; /* Ils seront justifiés */
+  
+}
+
+mildiou
+{
+ // color : green;
+  font-size : 12px;
+text-indent: 30px; /* Les paragraphes commenceront 30 pixels sur la droite */
+   text-align: justify; /* Ils seront justifiés */
+  
+}
+
+oidium
+{
+ // color : green;
+  font-size : 12px;
+text-indent: 30px; /* Les paragraphes commenceront 30 pixels sur la droite */
+   text-align: justify; /* Ils seront justifiés */
+  
+}
+
+black_rot
+{
+ // color : green;
+  font-size : 12px;
+text-indent: 30px; /* Les paragraphes commenceront 30 pixels sur la droite */
+   text-align: justify; /* Ils seront justifiés */
+  
+}
+
+ul
+{
+  color : black;
+  font-size : 14px;
+
+}
+
+information_modeles
+{
+ // color :green;
+  font-size : 12px;
+	text-indent: 30px; /* Les paragraphes commenceront 30 pixels sur la droite */
+   text-align: justify; /* Ils seront justifiés */
+	
+}
